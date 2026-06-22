@@ -12,6 +12,7 @@ Briefly, our analysis can be divided into three portions: (1) design of primers 
 dms_human_pkr
 ├── data
 ├── figures - files used to generate figures for the manuscript
+├── plasmids
 ├── results
 ├── structure_predictions
 ├── extended_data - supplemental files for manuscript
