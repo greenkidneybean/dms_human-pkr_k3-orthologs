@@ -1,4 +1,4 @@
-# Systematic screen of PKR reveals genetic variants that evade diverse viral pseudosubstrate inhibitors
+# Systematic screen of PKR reveals genetic variants that broadly evade divergent viral pseudosubstrate inhibitors
 
 Characterization of human PKR missense variants in the context of viral pseudosubstrate antagonists.
 
