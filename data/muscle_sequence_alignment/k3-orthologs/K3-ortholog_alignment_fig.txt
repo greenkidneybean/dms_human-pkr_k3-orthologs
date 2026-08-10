@@ -1,0 +1,62 @@
+Human eIF2α NP_001127006.1                   ------MPGLSCR---FYQHKFPEVEDVVMVNVRSIAE----M--GAYVSLLEYNNIEGMILLS-ELSRRRIRSINKLIRIGRNECVVVIRVDKEKGYID
+RCVZ Rana catesbeiana virus K3 AAY86037.1    ------M-----AHNRFYSEILPRQGDVTMCRVLP-HSDSWGE--GVYVSMMEYGNVEGYVAIGVENHRVIRKRFRK-LAPGAEMCMTVLRVDREKGYVD
+MYXV Myxoma virus K3 NP_051869.1             ------M-------------D-LSPGSVHEGIVYF-KD----G--IFKVRLLGYEGHECILLDYLNYRQDTLDRLKE-RLVGRVIKTRVVRADGL--YVD
+RFV Rabbit fibroma virus K3 NP_051897.1      ------M-------------GLLLPGSVHEGVVYF-RD----G--VFRVSLHGYEDHDCVLLDYLNYRHDTLDQLKR-RLVGRTIKTQVVRVNGL--YVD
+MPOX Monkeypox virus K3 PP556318.1           ------M-----L---AFCYSLPNAGDVIKGRVYE-ND----Y--TLYIYLFDYPHFEAILAEC*EMHMDRYVEYRD-KLVGKTVKVKVIRVDY-KGCVD
+YKV Yokapox virus K3 YP_004821369.1          ------M------------DPFPQVGDILMGTIYS-DN----Y--VLKVKLDTYN-IIACLIDKYTYPLSVYKKFIM-KMAGRHINVKVVKTDKEKGNVD
+EPTV Eptesipox virus K3 YP_009407963.1       ------M-----ASSDVKTEALPNIGDVVKGTVFV-ED----G--FVYARMDKYN-TTTLILNYCDINKQAFDKITT-NLIGKSIYLQVKHVDYNKKYID
+SWPV Swinepox virus K3 NP_570170.1           MSTM-NT-----L---AFCYGLPNINDITQGIIFV-RN----N--IFYSYLTDYA-MEACILNYINIRADKIEDLKK-SLVGKTISVRVIRVDVLKGYID
+SPPV Sheeppox virus K3 NP_659587.1           MSSN-SD-----L---AFCYVLPNINEVTDGIVCI-RD----N--IVYVKLINYG-LEALVIDYVNINMDQMNNIKK-TLVNKLINVQIIRMNKIKGYID
+DPV Deerpox virus K3 ABI99007.1              MSQK-SD-----L---AFCYVFPEIDELTKGIVIL-KN----G--ELYVKLIDYG-LDGFIIDYWNVNQERFEKIRK-KLVGKVIKVKVIRTDKVKGYID
+VACV Vaccinia virus K3 YP_232916.1           ------M-----L---AFCYSLPNAGDVIKGRVYE-KD----Y--ALYIYLFDYPHFEAILAESVKMHMDRYVEYRD-KLVGKTVKVKVIRVDYTKGYID
+VARV Variola virus K3 NP_042067.1            ------M-----L---VFCYSLPNVGDVLKGKVYE-NG----Y--VLYVDLFDYPHSEAILVESTQMHMNRYFKYRD-KLVGKTVKVKVIRIDYTKGYID
+TATP Taterapox virus K3 YP_717344.1          ------M-----L---AFCYSLPNVGDVLKGKVYE-NG----Y--ALYIDLFDYPHSEAILAESVQMHMNRYFKYRD-KLVGKTVKVKVIRVDYTKGYID
+CMLVM96 Camelpox virus K3 NP_570422.1        ------M-----L---AFCYSLPNVGDVLNGKVYE-NG----Y--ALYIDLFDYPHSEAILAESVQMHMNRYFKYRD-KLVGKTVKVKVIRVDYTKGYID
+VPV Volepox virus K3 YP_009281781.1          ------M-----L---TFCYSLPDEGDVVKGKIFE-KH----NAVALYVDLPEYH-TEGLLIESIRMNLQRYNKYRD-KLLGKTVNVTVVRVDYAKGFID
+COTV Cotia virus K3 YP_005296217.1           ------M-----L---AFCYALPNVGDIVTGEIYE-HN----Y--ALYIKLINTD-IVAILEESVKMNAQKYFKYRD-KLIGKTVKVRVVKVDYTKGYID
+RCPV Racoonpox virus K3 YP_009143343.1       ------M-----L---TFCYSLPNVGDVLTGKIFE-RS----Y--ALYVELPEYH-NSGILVESVNMNLQRYYKYRD-KLLGKIVSVTVVRVDYAKGFID
+SKPV Skunkpox virus K3 YP_009282727.1        ------M-----L---TFCYSLPNEGDVIKGKIFE-KN----N--ALYVDLPDYH-NKAILEESIRMHAQRYNKYRD-KLLGKIVNVVVVRVDYAKGYID
+TPV Tanapox virus K3 AAD46178.1              MNNHKSK-----L---AFCYAFPTVGTVTKGIVTV-KD----A--DFTVFLPEFG-LEALIVNYFSVNANIAEKLSK-ELSGKTINVQVIRTDKLKGYVD
+YMTV Yaba monkey tumor virus K3 NP_938270.1  MSRNRSQ-----L---AFCYAFPTVGTITKGVVTV-EG----D--SFTVFLPEFG-LHALIVNYLSVNVKRAKKLSE-KLSGKTVTVQVIRTDKLKGYVD
+
+Human   LSKRRVSPEEAIKCEDKFTKSKTVYSILRHVAEVLEYTKDEQLESLFQRTAWVFDDKYKRPGYGAYDAFKHAVSDPSILDSLDLNEDERE--------VLINNINRRLTPQAVKIRADIEVACYGYEGIDAVKEALR
+RCVZ    LDDRAVNADQAYECCSRYQLRRTEMAVAERAAEY-AGIKGSAVSDFLDETVRALRPGSLMSGTG----------------GLKISSDLKQLLKEFGAEAGLDRVGR--AEAV--VRV--HGA-----FFGHVLRGVT
+MYXV    LRRF-------------------------------------------------------------------------------------------------------------------------------------
+RFV     LRRF-------------------------------------------------------------------------------------------------------------------------------------
+MPOX    INNFYTKH---------------------------------------------------------------------------------------------------------------------------------
+YKV     VSC--------------------------------------------------------------------------------------------------------------------------------------
+EPTV    SVHIHKKKK------------------KEKVNEL-EQIKQIKIQHLLQT------------------------------------------------------------------------------GIGYITEAIN
+SWPV    VS---------------------------------------------------------------------------------------------------------------------------------------
+SPPV    VKIY-------------------------------------------------------------------------------------------------------------------------------------
+DPV     VRKV-------------------------------------------------------------------------------------------------------------------------------------
+VACV    VNYKRM-----------------------------------------------------------------------------------------------------------------------------------
+VARV    VNYKRM-----------------------------------------------------------------------------------------------------------------------------------
+TATP    VNYKRM-----------------------------------------------------------------------------------------------------------------------------------
+CMLVM96 VNYKRM-----------------------------------------------------------------------------------------------------------------------------------
+VPV     VRY--------------------------------------------------------------------------------------------------------------------------------------
+COTV    VTH--------------------------------------------------------------------------------------------------------------------------------------
+RCPV    VRH--------------------------------------------------------------------------------------------------------------------------------------
+SKPV    VRY--------------------------------------------------------------------------------------------------------------------------------------
+TPV     VRH--------------------------------------------------------------------------------------------------------------------------------------
+YMTV    VRH--------------------------------------------------------------------------------------------------------------------------------------
+
+Human   AGLNCSTENMP------------IK-INLIAPPRYVMTTTTLERTEGLSVLSQAMAVIKEKIEEKRGVFNVQMEPKVVTDTDETELARQMERLERENAEVDGDDDAEEMEAKAED
+RCVZ    NAYDALKEMR---------PDSGVN-VAVYPPERGVVAVTV------------------------------------------------------------------MAGDSEAA
+MYXV    ------------------------------------------------------------------------------------------------------------------F
+RFV     ----------------------------------------------------------------------------------------------------------------FTG
+MPOX    -------------------------------------------------------------------------------------------------------------KNKVNY
+YKV     ----------------------------------------------------------------------------------------------------------------KLC
+EPTV    NLQDSNKKNDTVNIIKTNCVDIDINKFKTFNTHKFIVGDML------------------------------------------------------------------FTFQQIEK
+SWPV    -----------------------------------------------------------------------------------------------------------------IV
+SPPV    ----------------------------------------------------------------------------------------------------------------NNN
+DPV     ----------------------------------------------------------------------------------------------------------------TSI
+VACV    ---------------------------------------------------------------------------------------------------------------CRHQ
+VARV    ---------------------------------------------------------------------------------------------------------------CRHQ
+TATP    ---------------------------------------------------------------------------------------------------------------CRHQ
+CMLVM96 ---------------------------------------------------------------------------------------------------------------CRHQ
+VPV     -----------------------------------------------------------------------------------------------------------------LP
+COTV    -----------------------------------------------------------------------------------------------------------------NH
+RCPV    -----------------------------------------------------------------------------------------------------------------SR
+SKPV    -----------------------------------------------------------------------------------------------------------------RP
+TPV     -----------------------------------------------------------------------------------------------------------------IT
+YMTV    -----------------------------------------------------------------------------------------------------------------IE

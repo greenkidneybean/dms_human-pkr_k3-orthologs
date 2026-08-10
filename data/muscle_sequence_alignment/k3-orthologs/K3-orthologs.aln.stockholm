@@ -1,0 +1,63 @@
+# STOCKHOLM 1.0
+#=GF SQ 20
+eIF2a ------MPGLSCR---FYQHKFPEVEDVVMVNVRSIAE----M--GAYVSLLEYNNIEGMILLS-ELSRRRIRSINKLIRIGRNECVVVIRVDKEKGYIDLSKRRVSPEEAIKCEDKFTKSKTVYSILRHVAEVLEYTKDEQLESLFQRTAWVFDDKYKRPGYGAYDAFKHAVSDPSILDSLDLNEDERE--------VLINNINRRLTPQAVKIRADIEVACYGYEGIDAVKEALRAGLNCSTENMP------------IK-INLIAPPRYVMTTTTLERTEGLSVLSQAMAVIKEKIEEKRGVFNVQMEPKVVTDTDETELARQMERLERENAEVDGDDDAEEMEAKAED
+#=GS eIF2a AC eIF2a
+#=GS eIF2a DE eIF2a
+RCVZ ------M-----AHNRFYSEILPRQGDVTMCRVLP-HSDSWGE--GVYVSMMEYGNVEGYVAIGVENHRVIRKRFRK-LAPGAEMCMTVLRVDREKGYVDLDDRAVNADQAYECCSRYQLRRTEMAVAERAAEY-AGIKGSAVSDFLDETVRALRPGSLMSGTG----------------GLKISSDLKQLLKEFGAEAGLDRVGR--AEAV--VRV--HGA-----FFGHVLRGVTNAYDALKEMR---------PDSGVN-VAVYPPERGVVAVTV------------------------------------------------------------------MAGDSEAA
+#=GS RCVZ AC RCVZ
+#=GS RCVZ DE RCVZ Ranavirus
+MYXV ------M-------------D-LSPGSVHEGIVYF-KD----G--IFKVRLLGYEGHECILLDYLNYRQDTLDRLKE-RLVGRVIKTRVVRADGL--YVDLRRF-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------F
+#=GS MYXV AC MYXV
+#=GS MYXV DE MYXV Myxoma virus NP_051869.1
+RFV ------M-------------GLLLPGSVHEGVVYF-RD----G--VFRVSLHGYEDHDCVLLDYLNYRHDTLDQLKR-RLVGRTIKTQVVRVNGL--YVDLRRF-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------FTG
+#=GS RFV AC RFV
+#=GS RFV DE RFV Rabbit fibroma virus NP_051897.1
+MPOX-STOP ------M-----L---AFCYSLPNAGDVIKGRVYE-ND----Y--TLYIYLFDYPHFEAILAEC*EMHMDRYVEYRD-KLVGKTVKVKVIRVDY-KGCVDINNFYTKH----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------KNKVNY
+#=GS MPOX-STOP AC MPOX-STOP
+#=GS MPOX-STOP DE MPOX-STOP
+YKV ------M------------DPFPQVGDILMGTIYS-DN----Y--VLKVKLDTYN-IIACLIDKYTYPLSVYKKFIM-KMAGRHINVKVVKTDKEKGNVDVSC------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------KLC
+#=GS YKV AC YKV
+#=GS YKV DE YKV Yokapox virus YP_004821369.1
+EPTV ------M-----ASSDVKTEALPNIGDVVKGTVFV-ED----G--FVYARMDKYN-TTTLILNYCDINKQAFDKITT-NLIGKSIYLQVKHVDYNKKYIDSVHIHKKKK------------------KEKVNEL-EQIKQIKIQHLLQT------------------------------------------------------------------------------GIGYITEAINNLQDSNKKNDTVNIIKTNCVDIDINKFKTFNTHKFIVGDML------------------------------------------------------------------FTFQQIEK
+#=GS EPTV AC EPTV
+#=GS EPTV DE EPTV Eptesipox virus YP_009407963.1
+SWPV MSTM-NT-----L---AFCYGLPNINDITQGIIFV-RN----N--IFYSYLTDYA-MEACILNYINIRADKIEDLKK-SLVGKTISVRVIRVDVLKGYIDVS--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------IV
+#=GS SWPV AC SWPV
+#=GS SWPV DE SWPV Swinepox virus NP_570170.1
+SPPV MSSN-SD-----L---AFCYVLPNINEVTDGIVCI-RD----N--IVYVKLINYG-LEALVIDYVNINMDQMNNIKK-TLVNKLINVQIIRMNKIKGYIDVKIY-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------NNN
+#=GS SPPV AC SPPV
+#=GS SPPV DE SPPV Sheeppox virus NP_659587.1
+DPV MSQK-SD-----L---AFCYVFPEIDELTKGIVIL-KN----G--ELYVKLIDYG-LDGFIIDYWNVNQERFEKIRK-KLVGKVIKVKVIRTDKVKGYIDVRKV-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------TSI
+#=GS DPV AC DPV
+#=GS DPV DE DPV Deerpox virus ABI99007.1
+VACV ------M-----L---AFCYSLPNAGDVIKGRVYE-KD----Y--ALYIYLFDYPHFEAILAESVKMHMDRYVEYRD-KLVGKTVKVKVIRVDYTKGYIDVNYKRM--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------CRHQ
+#=GS VACV AC VACV
+#=GS VACV DE VACV Vaccinia virus YP_232916.1
+VARV ------M-----L---VFCYSLPNVGDVLKGKVYE-NG----Y--VLYVDLFDYPHSEAILVESTQMHMNRYFKYRD-KLVGKTVKVKVIRIDYTKGYIDVNYKRM--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------CRHQ
+#=GS VARV AC VARV
+#=GS VARV DE VARV Variola virus NP_042067.1
+TATP ------M-----L---AFCYSLPNVGDVLKGKVYE-NG----Y--ALYIDLFDYPHSEAILAESVQMHMNRYFKYRD-KLVGKTVKVKVIRVDYTKGYIDVNYKRM--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------CRHQ
+#=GS TATP AC TATP
+#=GS TATP DE TATP Taterapox virus YP_717344.1
+CMLVM96 ------M-----L---AFCYSLPNVGDVLNGKVYE-NG----Y--ALYIDLFDYPHSEAILAESVQMHMNRYFKYRD-KLVGKTVKVKVIRVDYTKGYIDVNYKRM--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------CRHQ
+#=GS CMLVM96 AC CMLVM96
+#=GS CMLVM96 DE CMLVM96 Camelpox virus NP_570422.1
+VPV ------M-----L---TFCYSLPDEGDVVKGKIFE-KH----NAVALYVDLPEYH-TEGLLIESIRMNLQRYNKYRD-KLLGKTVNVTVVRVDYAKGFIDVRY-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------LP
+#=GS VPV AC VPV
+#=GS VPV DE VPV Volepox virus YP_009281781.1
+COTV ------M-----L---AFCYALPNVGDIVTGEIYE-HN----Y--ALYIKLINTD-IVAILEESVKMNAQKYFKYRD-KLIGKTVKVRVVKVDYTKGYIDVTH-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------NH
+#=GS COTV AC COTV
+#=GS COTV DE COTV Cotia virus SPAn232 YP_005296217.1
+RCPV ------M-----L---TFCYSLPNVGDVLTGKIFE-RS----Y--ALYVELPEYH-NSGILVESVNMNLQRYYKYRD-KLLGKIVSVTVVRVDYAKGFIDVRH-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------SR
+#=GS RCPV AC RCPV
+#=GS RCPV DE RCPV Racoonpox virus YP_009143343.1
+SKPV ------M-----L---TFCYSLPNEGDVIKGKIFE-KN----N--ALYVDLPDYH-NKAILEESIRMHAQRYNKYRD-KLLGKIVNVVVVRVDYAKGYIDVRY-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------RP
+#=GS SKPV AC SKPV
+#=GS SKPV DE SKPV Skunkpox virus YP_009282727.1
+TPV MNNHKSK-----L---AFCYAFPTVGTVTKGIVTV-KD----A--DFTVFLPEFG-LEALIVNYFSVNANIAEKLSK-ELSGKTINVQVIRTDKLKGYVDVRH-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------IT
+#=GS TPV AC TPV
+#=GS TPV DE TPV Tanapox virus AAD46178.1
+YMTV MSRNRSQ-----L---AFCYAFPTVGTITKGVVTV-EG----D--SFTVFLPEFG-LHALIVNYLSVNVKRAKKLSE-KLSGKTVTVQVIRTDKLKGYVDVRH-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------IE
+#=GS YMTV AC YMTV
+#=GS YMTV DE YMTV Yaba monkey tumor virus NP_938270.1
+//
