@@ -1,6 +1,6 @@
 # Systematic screen of PKR reveals genetic variants that broadly evade divergent viral pseudosubstrate inhibitors
 
-Authors: Michael Chambers, Tristan Grieve, Sophia Scobell, and Meru Sadhu.
+Authors: Michael J. Chambers, Tristan R. Grieve, Sophia B. Scobell, and Meru J. Sadhu.
 
 This project builds from our [previous work](https://elifesciences.org/articles/99575) to characterize missense variants of PKR in the context of 5 viral pseudosubstrate antagonists: vaccinia virus K3, variola virus C3, tanapox virus K3, myxoma virus M156R, and the independently derived ranavirus vIF2α antagonist. We identified PKR variants that are broadly protective against all five viral antagonists (Fig. 5), as well as variants with divergent effects (Fig. 6).  This repo provides the figures, results, and code used for the manuscript.
 
