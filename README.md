@@ -1,4 +1,4 @@
-[![bioRxiv Paper](https://shields.io)](https://doi.org)(https://www.biorxiv.org/content/10.64898/2026.08.11.744216v1))
+[![bioRxiv Paper](https://shields.io)](https://doi.org)(https://www.biorxiv.org/content/10.64898/2026.08.11.744216v1)
 
 # Systematic screen of PKR reveals genetic variants that broadly evade divergent viral pseudosubstrate inhibitors
 
